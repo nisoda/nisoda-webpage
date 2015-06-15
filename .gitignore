@@ -1,1 +1,12 @@
 /bin/
+**/grunt_temp
+**/node_modules
+**/prod_dist
+.idea/workspace.xml
+
+src/**/Thumbs.db
+src/**/android4.png
+src/**/AngularJS_logo.svg.png
+src/**/manoaseal_transparent.png
+src/**/nisoda=senior-pic.png
+src/**/Java-logo.jpg
